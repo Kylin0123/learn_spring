@@ -1,5 +1,7 @@
-package io.kylin.learn_springboot_shiro;
+package io.kylin.learn_springboot_shiro.controller;
 
+import io.kylin.learn_springboot_shiro.bean.ResponseBean;
+import io.kylin.learn_springboot_shiro.exception.UnauthorizedException;
 import org.apache.shiro.ShiroException;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ExceptionHandler;

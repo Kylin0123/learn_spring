@@ -1,5 +1,7 @@
-package io.kylin.learn_springboot_shiro;
+package io.kylin.learn_springboot_shiro.shiro;
 
+import io.kylin.learn_springboot_shiro.database.UserBean;
+import io.kylin.learn_springboot_shiro.database.UserService;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.apache.shiro.authc.AuthenticationException;

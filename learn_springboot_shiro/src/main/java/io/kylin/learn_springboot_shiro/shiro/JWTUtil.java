@@ -1,4 +1,4 @@
-package io.kylin.learn_springboot_shiro;
+package io.kylin.learn_springboot_shiro.shiro;
 
 import com.auth0.jwt.JWT;
 import com.auth0.jwt.JWTVerifier;

@@ -1,4 +1,4 @@
-package io.kylin.learn_springboot_shiro;
+package io.kylin.learn_springboot_shiro.shiro;
 
 import org.apache.shiro.authc.AuthenticationToken;
 

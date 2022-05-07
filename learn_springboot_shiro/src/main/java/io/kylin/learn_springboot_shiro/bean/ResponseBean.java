@@ -1,4 +1,4 @@
-package io.kylin.learn_springboot_shiro;
+package io.kylin.learn_springboot_shiro.bean;
 
 public class ResponseBean {
     // http 状态码

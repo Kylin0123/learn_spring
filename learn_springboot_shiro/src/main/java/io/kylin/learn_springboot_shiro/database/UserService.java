@@ -1,4 +1,4 @@
-package io.kylin.learn_springboot_shiro;
+package io.kylin.learn_springboot_shiro.database;
 
 
 import org.springframework.stereotype.Service;
